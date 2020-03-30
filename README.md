@@ -32,6 +32,9 @@ https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1
 #### Top kaggle notebooks (week 2):
 https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
 
+#### Brasil.io
+https://github.com/turicas/covid19-br
+
 ## Simulador
 
 #### Epidemic calculator
