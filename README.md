@@ -1,4 +1,4 @@
-## Description
+## Descrição
 
 Repositório pra agregar informação sobre a disseminação do coronavirus no Brasil e no mundo.
 
