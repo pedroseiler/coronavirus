@@ -2519,15 +2519,11 @@ data,municipio,uf,casos confirmados,mortes,fonte,última atualização,validaç�
 18/03/2020,São Paulo,SP,214,4,,Desconhecida,58,Consistente,0
 19/03/2020,São Paulo,SP,259,5,http://www.saopaulo.sp.gov.br/spnoticias/capital-registra-5-mortes-relacionadas-ao-novo-coronavirus/,Desconhecida,45,Consistente,0
 20/03/2020,São Paulo,SP,358,9,http://www.saude.sp.gov.br/cve-centro-de-vigilancia-epidemiologica-prof.-alexandre-vranjac/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus-covid-19/situacao-epidemiologica,Desconhecida,99,Consistente,0
-21/03/2020,São Paulo,SP,358,9,,Desconhecida,0,Consistente,0
-22/03/2020,São Paulo,SP,358,9,,Desconhecida,0,Consistente,0
-23/03/2020,São Paulo,SP,358,9,,Desconhecida,0,Consistente,0
-24/03/2020,São Paulo,SP,358,9,,Desconhecida,0,Consistente,0
 25/03/2020,São Paulo,SP,722,44,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/coronavirus2503_30situacao_epidemiologica.pdf,Desconhecida,364,Consistente,0
 26/03/2020,São Paulo,SP,899,53,,Desconhecida,177,Consistente,0
 27/03/2020,São Paulo,SP,1044,62,,Desconhecida,145,Consistente,0
-28/03/2020,São Paulo,SP,1044,62,,Desconhecida,0,Consistente,0
-29/03/2020,São Paulo,SP,1044,62,,Desconhecida,0,Consistente,0
+28/03/2020,São Paulo,SP,1107,75,,Desconhecida,0,Consistente,0
+29/03/2020,São Paulo,SP,1170,88,,Desconhecida,0,Consistente,0
 30/03/2020,São Paulo,SP,1233,103,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/coronavirus300320_33situacao_epidemiologica.pdf,30/03/2020,189,Consistente,0
 30/03/2020,São Pedro,SP,1,0,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/coronavirus300320_33situacao_epidemiologica.pdf,30/03/2020,-999,Consistente,0
 23/03/2020,São Sebastião,SP,1,,,Desconhecida,-999,Consistente,0
