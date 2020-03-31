@@ -10,16 +10,19 @@ https://docs.google.com/document/d/1ZDxOrn9ZljIzrfAnUiDjjLR28ORrvn6tHi2q3ig6WKc/
 #### Imperial College:
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
 
-## Base de dados 
+#### Top kaggle notebooks (week 2):
+https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
 
-#### Postman (APIs):
-https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiTWpKaU5HWm1ObVJrTTJaaCIsInQiOiJBeWZHWXlIRTAyckhEOUN3ZThYZVwvMVdEeU9zUEZQTitFQkNcLzFKTDZGSzgrV2E2STI0VDNMZGtGVlRNbHJRemRrUzR3V09FUUNYcEh1aGQ3N2thQkh3aDVuTW82cjZaYlNtSFlqMTk3SjY0K29ZekEwUnhhRXR0enhRTjJlZjJ6In0=
+## Base de dados 
 
 #### Kaggle (Brasil):
 https://www.kaggle.com/unanimad/corona-virus-brazil
 
 #### Universidade de Viçosa, Github (Brasil):
 https://github.com/wcota/covid19br
+
+#### Brasil.io
+https://github.com/turicas/covid19-br
 
 #### John Hopkins (Mundo):
 https://github.com/CSSEGISandData/COVID-19
@@ -29,11 +32,8 @@ https://www.kaggle.com/c/covid19-global-forecasting-week-2
 https://www.kaggle.com/c/covid19-global-forecasting-week-1
 https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1 
 
-#### Top kaggle notebooks (week 2):
-https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
-
-#### Brasil.io
-https://github.com/turicas/covid19-br
+#### Postman (APIs):
+https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiTWpKaU5HWm1ObVJrTTJaaCIsInQiOiJBeWZHWXlIRTAyckhEOUN3ZThYZVwvMVdEeU9zUEZQTitFQkNcLzFKTDZGSzgrV2E2STI0VDNMZGtGVlRNbHJRemRrUzR3V09FUUNYcEh1aGQ3N2thQkh3aDVuTW82cjZaYlNtSFlqMTk3SjY0K29ZekEwUnhhRXR0enhRTjJlZjJ6In0=
 
 ## Simulador
 
